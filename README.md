@@ -16,13 +16,18 @@
 <!-- - 📫 How to reach me:  -->
 <!-- - 😄 Pronouns: ... -->
 
+<div >
+  
+  
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 
-### My Skils
+    My Skills
+</div>
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,express,mongodb,nodejs,c,cpp,git,aws,bootstrap,py,discord,figma,firebase,github,java,linux,mysql,nextjs,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,express,mongodb,nodejs,c,cpp,git,aws,bootstrap,py,discord,figma,firebase,github,java,kotlin,linux,mysql,nextjs,postman,ts,vscode&perline=15" />
   </a>
 </p>
 
