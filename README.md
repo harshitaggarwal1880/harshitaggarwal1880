@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**harshitaggarwal1880/harshitaggarwal1880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Harshit Aggarwal</h1></summary>
+  </ul>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on saving earth
+- 🌱 I’m currently learning World Most Popular Language
+- 👯 I’m looking to collaborate on making an spaceship
+- 🤔 I’m looking for help with God
+- ⚡ Fun fact: Night Owl
+<!-- - 💬 Ask me about ... -->
+<!-- - 📫 How to reach me:  -->
+<!-- - 😄 Pronouns: ... -->
+
+
+### My Skils
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,express,mongodb,nodejs,c,cpp,git,aws,bootstrap,py,discord,figma,firebase,github,java,kotlin,linux,mysql,nextjs,postman,ts,vscode&perline=9" />
+  </a>
+</p>
+
+
+
