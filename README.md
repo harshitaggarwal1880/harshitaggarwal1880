@@ -20,8 +20,11 @@
   
   
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-
-    My Skills
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Harshit Aggarwal</h1></summary>
+  </ul>
+</div>
 </div>
 
 
