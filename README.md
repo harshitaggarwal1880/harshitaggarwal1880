@@ -19,10 +19,10 @@
 <div >
   
   
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 <div id="user-content-toc">
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Harshit Aggarwal</h1></summary>
+    <summary><h1 style="display: inline-block">Technologies That I Know </h1></summary>
   </ul>
 </div>
 </div>
